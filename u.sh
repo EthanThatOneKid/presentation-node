@@ -1,0 +1,1 @@
+sudo apt-get remove pandoc texlive-latex-base texlive-latex-recommended texlive-pictures texlive-latex-extra
