@@ -2,7 +2,7 @@
 title: Ethan's Presentation
 author: EthanThatOneKid
 theme: Singapore
-colortheme: seahorse
+colortheme: beaver
 ---
 
 # This is the first page
