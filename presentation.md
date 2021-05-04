@@ -1,12 +1,8 @@
 ---
-title:
-- Ethan's Presentation
-author:
-- EthanThatOneKid
-theme:
-- Singapore
-colortheme:
-- seahorse
+title: Ethan's Presentation
+author: EthanThatOneKid
+theme: Singapore
+colortheme: seahorse
 ---
 
 # This is the first page
