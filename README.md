@@ -1,6 +1,6 @@
 # Presentation Node 👨‍🏫
 
-> A knowledge node that compiles to a presentation.
+> A knowledge node that compiles to a presentation using Pandoc.
 
 ## Create
 
